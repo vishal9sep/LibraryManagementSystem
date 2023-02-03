@@ -35,6 +35,15 @@ To deploy this project run on Postman
    http://localhost:8080/
 ```
 
+Sample Data
+```bash
+   {  
+      "userId":"1",
+      "name":"RichDadPoorDad",
+      "noOfIssuedBooks":"0"
+   }
+```
+
 
 ## Tech Stack
 
